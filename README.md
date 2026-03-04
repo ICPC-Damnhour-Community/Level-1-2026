@@ -19,16 +19,16 @@ Explore: [ICPC Damanhour - Level 1 Wiki](https://github.com/ICPC-Damnhour-Commun
 
 ## 🧠 Topics Covered
 
-- Static Range Queries
-- Two Pointers Technique
-- Binary Search
-- Greedy Algorithms
-- Complete Search (Brute-force)
-- Counting Techniques
-- Number Theory 
-- Bitmasks
-- Introduction to Graph Theory
-
+- Introduction to Object-oriented programming (OOP).
+- Arrays and STL1: Vector, Pair with implementation.
+- STL2: Queue, Stack and Deque.
+- STL3: Priority_queue, Set and Map.
+- Prefix Sums, Partial Sum, and Frequency Arrays.
+- Sliding Window and Two-Pointer Techniques.
+- Standard Binary Search, and Binary Search on Answer. 
+- Brute-force and Backtracking.
+- Bitwise Operations and Bitmasking Problems.
+  
 ## 💬 Community & Support
 
 For any questions, reach out on our Discord’s **#community-chat** or **#support-chat** channels.  
