@@ -1,7 +1,6 @@
 # Level 1 Training 2026
 
-Welcome to the **Level 1 Problem Solving Training**!
-
+Welcome to the **Level 1 Problem Solving Training**!  
 You will continues your competitive programming journey, focusing on essential intermediate topics and problem-solving strategies that are crucial for contests and improving your algorithmic thinking.
 
 ## 🚀 Get Started
